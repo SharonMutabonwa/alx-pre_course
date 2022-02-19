@@ -1,4 +1,3 @@
 # ALX pre course 
 
-An introduction to Git
-
+This is an introduction to Git
